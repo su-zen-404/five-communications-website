@@ -1,24 +1,37 @@
-# FIVE Communications, commfive.com
+# FIVE Communications
 
-Archived snapshot of the FIVE Communications website, a Dubai creative communications agency. Captured 18 September 2026, before any post-handover changes.
+Custom marketing website designed and developed for FIVE Communications, a Dubai creative communications agency.
 
-**Live archive:** https://su-zen-404.github.io/five-communications-website/
+This repository contains a static portfolio archive of the production frontend I built before project handover.
+
+🌐 Live Demo:
+https://su-zen-404.github.io/five-communications-website/
 
 ![Homepage](_readme/desktop-home.jpg)
 
 ## My role
 
-Design and front-end build of a custom WordPress theme from scratch: no page builder, no starter theme.
+Designed and developed a bespoke WordPress website from the ground up using a completely custom theme with no page builder or starter theme.
 
-- Custom PHP theme with a tokenised type scale and spacing system
-- Scroll-driven homepage: pinned hero video, GSAP ScrollTrigger reveals, Lenis smooth scroll
-- 75-image curated projects grid with category ordering and a film reel section
-- Journal with magazine-style article layouts
-- Performance and hardening work on Cloudways (caching, WAF, plugin cull)
+- Designed and developed a completely custom WordPress theme using PHP, HTML, CSS and JavaScript
+- Built responsive layouts for desktop, tablet and mobile
+- Advanced Custom Fields (ACF) powered content management for editors
+- Scroll-driven homepage with GSAP ScrollTrigger, SplitText and Lenis smooth scrolling
+- Curated projects archive with 75+ images and custom category ordering
+- Magazine-style journal layouts
+- Production optimisation on Cloudways including caching, security hardening and plugin cleanup
 
 ## Stack
 
-WordPress, custom PHP theme, vanilla CSS with design tokens, GSAP 3 (ScrollTrigger, SplitText, ScrambleText), Lenis, Cloudways hosting.
+WordPress • PHP • Advanced Custom Fields (ACF) • JavaScript • GSAP • Lenis • HTML • CSS • Cloudways
+
+## Highlights
+
+- Fully custom WordPress implementation
+- Interactive motion design using GSAP
+- Responsive across desktop and mobile
+- Production deployment and optimisation
+- Static archive created for portfolio preservation
 
 ## Screens
 
@@ -30,10 +43,10 @@ WordPress, custom PHP theme, vanilla CSS with design tokens, GSAP 3 (ScrollTrigg
 | --- | --- |
 | ![Mobile home](_readme/mobile-home.jpg) | ![Mobile projects](_readme/mobile-projects.jpg) |
 
-## About this repository
+## About this archive
 
 This is a static mirror of the live site at the time of capture, served with GitHub Pages. All assets are local; nothing loads from the client's server. The WordPress source theme is not included here.
 
-The live site is set in Gotham, a licensed typeface that cannot be redistributed. This archive substitutes the closest geometric sans available on the viewer's system (Avenir Next on macOS and iOS, Segoe UI on Windows, Roboto on Android), so metrics differ slightly from the original. The screenshots above show the site in Gotham as shipped.
+To respect font licensing, Gotham has been replaced with system fonts in this archive. Visual differences from the production site are minimal.
 
 Brand assets, photography and copy belong to FIVE Communications and its clients and are shown here for portfolio purposes only.
