@@ -7975,12 +7975,6 @@ body.page-template-template-connect {
 
 
 
-/* ── Hide CookieAdmin floating re-consent button ── */
-.cookieadmin_re_consent,
-.cookieadmin_reconsent_img {
-  display: none !important;
-}
-
 /* ─────────────────────────────────────────────────────────
    MOBILE CTA UNIFICATION
    All primary CTA buttons render at the same size on phones
